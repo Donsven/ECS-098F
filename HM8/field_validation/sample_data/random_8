@@ -1,0 +1,20 @@
+contact_details:
+    first_name: Alberto
+    last_name: Waters
+    phone_number: 641-102-8823
+    email: sonnen@optonline.net
+shipping_address:
+    street_number: 90514
+    street_name: Forest Drive
+    apartment_number: 9702
+    city: Boston
+    state: IL
+    zip: 17708
+payment_details:
+    cardholder:
+        first_name: Percy
+        last_name: Morton
+    card_number: 8261-5282-3330-5664
+    expiration_month: 10
+    expiration_year: asdf
+    ccv: abc

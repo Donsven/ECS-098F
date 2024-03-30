@@ -1,0 +1,20 @@
+contact_details:
+    first_name: Ruth
+    last_name: Coleman
+    phone_number: 940-384-7510
+    email: bolow@sbcglobal.net
+shipping_address:
+    street_number: 40811
+    street_name: Forest Drive
+    apartment_number: 
+    city: San Francisco
+    state: MN
+    zip: 92880
+payment_details:
+    cardholder:
+        first_name: Jermaine
+        last_name: Ruiz
+    card_number: 7341-3474-7761-6301
+    expiration_month: 11
+    expiration_year: 2028
+    ccv: 706

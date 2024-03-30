@@ -1,0 +1,20 @@
+contact_details:
+    first_name: Clara
+    last_name: Craig
+    phone_number: 810-665-1215
+    email: mgemmons@hotmail.com
+shipping_address:
+    street_number: 70398
+    street_name: Overlook Circle
+    apartment_number: 
+    city: New York
+    state: CA
+    zip: 17708
+payment_details:
+    cardholder:
+        first_name: Alberto
+        last_name: Herrera
+    card_number: 5329-9364-1489-8897
+    expiration_month: 03
+    expiration_year: 2023
+    ccv: 193

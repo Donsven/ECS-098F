@@ -1,0 +1,20 @@
+contact_details:
+    first_name: Guadalupe
+    last_name: Ruiz
+    phone_number: 112-820-2179
+    email: miyop@live.com
+shipping_address:
+    street_number: 45626
+    street_name: Brown Street
+    apartment_number: 3393
+    city: 456456
+    state: 
+    zip: 12050
+payment_details:
+    cardholder:
+        first_name: Terry
+        last_name: Drake
+    card_number: 5921-7412-3485-7177
+    expiration_month: 11
+    expiration_year: 2025
+    ccv: 125

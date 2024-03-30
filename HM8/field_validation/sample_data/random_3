@@ -1,0 +1,20 @@
+contact_details:
+    first_name: Jar ed
+    last_name: 123
+    phone_number: 641-102-8823
+    email: msloan@comcast.net
+shipping_address:
+    street_number: 70398
+    street_name: Summit Avenue
+    apartment_number: 
+    city: San Francisco
+    state: NY
+    zip: 50431
+payment_details:
+    cardholder:
+        first_name: Ruth
+        last_name: Reyes
+    card_number: 8812-3483-5862-8180
+    expiration_month: 07
+    expiration_year: 2024
+    ccv: 706

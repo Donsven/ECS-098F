@@ -1,0 +1,20 @@
+contact_details:
+    first_name: Cheryl
+    last_name: Phelps
+    phone_number: 112-820-2179
+    email: houle@mac.com
+shipping_address:
+    street_number: 97168
+    street_name: 
+    apartment_number: 8386
+    city: Philadelphia
+    state: 
+    zip: !@#
+payment_details:
+    cardholder:
+        first_name: Dolores
+        last_name: Drake
+    card_number: 8812-3483-5862-8180
+    expiration_month: 07
+    expiration_year: asdf
+    ccv: 523

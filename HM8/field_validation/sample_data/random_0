@@ -1,0 +1,20 @@
+contact_details:
+    first_name: Alberto
+    last_name: Murphy
+    phone_number: 759-917-655
+    email: a.b.c@comcast.net
+shipping_address:
+    street_number: 23706
+    street_name: 
+    apartment_number: 
+    city: *(&(
+    state: NJ
+    zip: 36369
+payment_details:
+    cardholder:
+        first_name: Dolores
+        last_name: Rios
+    card_number: 4249-7489-9019-1600
+    expiration_month: 05
+    expiration_year: 2026
+    ccv: 485

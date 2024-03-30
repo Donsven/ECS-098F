@@ -1,0 +1,20 @@
+contact_details:
+    first_name: Cheryl
+    last_name: Waters
+    phone_number: 673-135-1943
+    email: a.b.c@comcast.net
+shipping_address:
+    street_number: 90514
+    street_name: blvd )!@#$)
+    apartment_number: abc
+    city: *(&(
+    state: 
+    zip: 80207
+payment_details:
+    cardholder:
+        first_name: Jermaine
+        last_name: Coleman
+    card_number: 123-123-123-12345
+    expiration_month: 11
+    expiration_year: 2021
+    ccv: 193
